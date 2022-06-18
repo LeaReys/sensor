@@ -1,7 +1,7 @@
 # Water Рump Maintenance
 
 ## Описание задачи:
-В качестве исследуемых  данных используется набор показаний датчи-ков для профилактического обслуживания водяного насоса: [Pump Sensor Data](https://www.kaggle.com/datasets/nphantawee/pump-sensor-data?datasetId=131138&sortBy=voteCount) "Необязательная подсказка")
+В качестве исследуемых  данных используется набор показаний датчи-ков для профилактического обслуживания водяного насоса: [Pump Sensor Data](https://www.kaggle.com/datasets/nphantawee/pump-sensor-data?datasetId=131138&sortBy=voteCount)
 
 Описание данных на  «Kaggle»: «Один из водяных насосов системы во-доснабжения отказывал 7 раз, что ведет к полной остановке системы.  Инженеры не заметили никакой закономерности в данных при сбоях системы, поэтому предоставили показания датчиков, для разработки системы обнаруже-ния аномалий».
 
@@ -14,10 +14,10 @@
 
 ## Файлы:
 
-Подробные выводы и рассуждения в формате PDF: https://drive.google.com/file/d/1xj0BrH2guPJihJ8Z_UeZ45VizmDXCyO0/view?usp=sharing.
+Подробные выводы и рассуждения в формате PDF: [PDF-рассуждения](https://drive.google.com/file/d/1xj0BrH2guPJihJ8Z_UeZ45VizmDXCyO0/view?usp=sharing).
 В данный PDF-файл является частьью моего дипломного проекта, в файле приводятся развернутые рассуждения и выводы касательно выбранных подходов и полученных результатов, а также сравнение показателей метрик.
 
-**Архив со всеми файлами**: https://drive.google.com/file/d/1L2A-eZC061cCLrCDt35Rv6NVsrr--1XO/view?usp=sharing
+**Архив со всеми файлами**: [RAR](https://drive.google.com/file/d/1L2A-eZC061cCLrCDt35Rv6NVsrr--1XO/view?usp=sharing)
 
 **Порядок файлов:**
 >1. sensor_ml_part_1 - Первичный анализ данных
