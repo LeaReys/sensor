@@ -30,4 +30,5 @@
 >7. sensor_ml_part_3_OCSM - Модель OCSM
 
 
-**(!)** Файла с первичным анализом данных (sensor_ml_part_1) имеет слишком большой размер, поэтому с результатми можно ознакомиться в [Google Colab](https://colab.research.google.com/drive/1qpIhoHIjSfcesvKS_NF33vI7Bgb0iQA1) или скачав архив.
+**(!)** Файла с первичным анализом данных (sensor_ml_part_1) имеет слишком большой размер, поэтому с результатми можно ознакомиться в [Google Colab](https://colab.research.google.com/drive/1qpIhoHIjSfcesvKS_NF33vI7Bgb0iQA1?usp=sharing) или скачав архив.
+
