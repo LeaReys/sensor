@@ -20,10 +20,10 @@
 **Архив со всеми файлами**: https://drive.google.com/file/d/1L2A-eZC061cCLrCDt35Rv6NVsrr--1XO/view?usp=sharing
 
 **Порядок файлов:**
-1. sensor_ml_part_1 - Первичный анализ данных
-2. sensor_ml_part_2 - Предобработка данных
-3. sensor_ml_part_3_IQR - Модель доверительного интервала IQR
-4. sensor_ml_part_3_iForest - Модель изоляционного леса
-5. sensor_ml_part_3_Kmean - Модель KMeans
-6. sensor_ml_part_3_LOF - Модель LOF
-7. sensor_ml_part_3_OCSM - Модель OCSM
+>1. sensor_ml_part_1 - Первичный анализ данных
+>2. sensor_ml_part_2 - Предобработка данных
+>3. sensor_ml_part_3_IQR - Модель доверительного интервала IQR
+>4. sensor_ml_part_3_iForest - Модель изоляционного леса
+>5. sensor_ml_part_3_Kmean - Модель KMeans
+>6. sensor_ml_part_3_LOF - Модель LOF
+>7. sensor_ml_part_3_OCSM - Модель OCSM
